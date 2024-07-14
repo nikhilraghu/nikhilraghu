@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 I'm a passionate and dedicated frontend developer with a keen eye for design and user experience. With a solid foundation in modern web technologies, I strive to create intuitive, responsive, and aesthetically pleasing web applications.
 
+
 **🛠️ My Skill Set:**
 
 **Frontend Technologies:** HTML, CSS, JavaScript
@@ -31,9 +32,11 @@ I'm a passionate and dedicated frontend developer with a keen eye for design and
 
 **Programming Languages:** Java, Python, C++
 
+
 **🌟 About Me:**
 
 With a strong background in frontend, I bring a holistic approach to web development. I enjoy transforming complex problems into simple, beautiful, and intuitive designs. My goal is to always build products that provide pixel-perfect, performant experiences.
+
 
 **💼 Projects I've Worked On:**
 
@@ -47,6 +50,7 @@ With a strong background in frontend, I bring a holistic approach to web develop
 
 **🎮 Gears World:** Developed a dedicated site for gadget enthusiasts, featuring reviews and the latest tech news. Click - https://gearsworld.netlify.app/
 
+
 **🎥 Coding with Nick:**
 
 I also run a YouTube channel and blog called Coding with Nick, where we post articles and videos related to frontend development. Check out the content here:
@@ -54,12 +58,14 @@ I also run a YouTube channel and blog called Coding with Nick, where we post art
 **YouTube Channel:** [Coding with Nick] - https://codingwithnick.in/
 
 **Blog Website:** [Coding with Nick] - https://www.youtube.com/c/CodingWithNick
+
  
 **🔗 Connect with Me:**
 
 **🌐 Portfolio:** Explore my work and projects on my portfolio website. https://nikhilraghuwanshi.in/
 
 **💼 LinkedIn:** Let's connect on LinkedIn. https://www.linkedin.com/in/nikhilraghu12/
+
 
 **📧 Contact:**
 

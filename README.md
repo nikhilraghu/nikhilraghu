@@ -19,34 +19,48 @@ Here are some ideas to get you started:
 
 
 
-👋 Hi, I'm Nikhil Raghuwanshi!
+**👋 Hi, I'm Nikhil Raghuwanshi!**
 
 I'm a passionate and dedicated frontend developer with a keen eye for design and user experience. With a solid foundation in modern web technologies, I strive to create intuitive, responsive, and aesthetically pleasing web applications.
 
-🛠️ My Skill Set:
-Frontend Technologies: HTML, CSS, JavaScript
-Libraries & Frameworks: jQuery, Bootstrap, React
-Programming Languages: Java, Python, C++
-🌟 About Me:
-With a strong background in both frontend and backend development, I bring a holistic approach to web development. I enjoy transforming complex problems into simple, beautiful, and intuitive designs. My goal is to always build products that provide pixel-perfect, performant experiences.
+**🛠️ My Skill Set:**
 
-💼 Projects I've Worked On:
+**Frontend Technologies:** HTML, CSS, JavaScript
 
-🛒 E-commerce Website: Developed a comprehensive online store with a seamless shopping experience.
+**Libraries & Frameworks:** jQuery, Bootstrap, React
 
-📝 Blog Website: Created a dynamic platform for sharing articles and engaging with readers.
+**Programming Languages:** Java, Python, C++
 
-🖼️ JPG, PNG to WebP Converter: Built an efficient tool to convert images to WebP format for optimized web performance.
+**🌟 About Me:**
 
-⌚ iWatch Website: Designed a visually appealing website to showcase Apple Watch products and features.
+With a strong background in frontend, I bring a holistic approach to web development. I enjoy transforming complex problems into simple, beautiful, and intuitive designs. My goal is to always build products that provide pixel-perfect, performant experiences.
 
-🎮 Gears World: Developed a dedicated site for gadget enthusiasts, featuring reviews and the latest tech news.
+**💼 Projects I've Worked On:**
 
-🔗 Connect with Me:
+**🛒 E-commerce Website:** Developed a comprehensive online store with a seamless shopping experience. Click - https://coolshop-web.netlify.app/
 
-🌐 Portfolio: Explore my work and projects on my portfolio website.
-💼 LinkedIn: Let's connect on LinkedIn.
+**📝 Blog Website:** Created a dynamic platform for sharing articles and engaging with readers. Click - https://my-blog-12.netlify.app/
 
-📧 Contact:
+**🖼️ JPG, PNG to WebP Converter:** Built an efficient tool to convert images to WebP format for optimized web performance. Click - https://codingwithnick.in/jpg-to-webp-converter/
+
+**⌚ iWatch Website:** Designed a visually appealing website to showcase Apple Watch products and features. Click - https://iwatch-landing-page.netlify.app/
+
+**🎮 Gears World:** Developed a dedicated site for gadget enthusiasts, featuring reviews and the latest tech news. Click - https://gearsworld.netlify.app/
+
+**🎥 Coding with Nick:**
+
+I also run a YouTube channel and blog called Coding with Nick, where we post articles and videos related to frontend development. Check out the content here:
+
+**YouTube Channel:** [Coding with Nick] - https://codingwithnick.in/#google_vignette
+
+**Blog Website:** [Coding with Nick] - https://www.youtube.com/c/CodingWithNick
+ 
+**🔗 Connect with Me:**
+
+**🌐 Portfolio:** Explore my work and projects on my portfolio website. https://nikhilraghuwanshi.in/
+
+**💼 LinkedIn:** Let's connect on LinkedIn. https://www.linkedin.com/in/nikhilraghu12/
+
+**📧 Contact:**
 
 Feel free to reach out to me at nikhilraghuwanshi75@gmail.com. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.

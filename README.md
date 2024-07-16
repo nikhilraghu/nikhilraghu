@@ -40,15 +40,15 @@ With a strong background in frontend, I bring a holistic approach to web develop
 
 **💼 Projects I've Worked On:**
 
-**🛒 E-commerce Website:** Developed a comprehensive online store with a seamless shopping experience. Click - https://coolshop-web.netlify.app/
+**🛒 E-commerce Website:**  Click - https://coolshop-web.netlify.app/
 
-**📝 Blog Website:** Created a dynamic platform for sharing articles and engaging with readers. Click - https://my-blog-12.netlify.app/
+**📝 Blog Website:** Click - https://my-blog-12.netlify.app/
 
-**🖼️ JPG, PNG to WebP Converter:** Built an efficient tool to convert images to WebP format for optimized web performance. Click - https://codingwithnick.in/jpg-to-webp-converter/
+**🖼️ JPG, PNG to WebP Converter:** Click - https://codingwithnick.in/jpg-to-webp-converter/
 
-**⌚ iWatch Website:** Designed a visually appealing website to showcase Apple Watch products and features. Click - https://iwatch-landing-page.netlify.app/
+**⌚ iWatch Website:** Click - https://iwatch-landing-page.netlify.app/
 
-**🎮 Gears World:** Developed a dedicated site for gadget enthusiasts, featuring reviews and the latest tech news. Click - https://gearsworld.netlify.app/
+**🎮 Gears World:** Click - https://gearsworld.netlify.app/
 
 
 **🎥 Coding with Nick:**

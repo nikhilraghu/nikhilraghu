@@ -53,7 +53,7 @@ With a strong background in frontend, I bring a holistic approach to web develop
 
 **🎥 Coding with Nick:**
 
-I also run a YouTube channel and blog called Coding with Nick, where we post articles and videos related to frontend development. Check out the content here:
+I also run a YouTube channel and blog called Coding with Nick, where we post articles and videos related to Front-end development. Check out the content here:
 
 **Blog Website:** [Coding with Nick] - https://codingwithnick.in/
 

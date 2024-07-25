@@ -44,11 +44,13 @@ With a strong background in frontend, I bring a holistic approach to web develop
 
 **📝 Blog Website:** Click - https://my-blog-12.netlify.app/
 
-**🖼️ JPG, PNG to WebP Converter:** Click - https://codingwithnick.in/jpg-to-webp-converter/
+**🖼️ JPG, PNG to WebP Converter:** Click - https://jpg-png-compress.netlify.app/
 
 **⌚ iWatch Website:** Click - https://iwatch-landing-page.netlify.app/
 
 **🎮 Gears World:** Click - https://gearsworld.netlify.app/
+
+** 🎧 Music Player:** Click - https://nick-musicplayer.netlify.app/
 
 
 **🎥 Coding with Nick:**

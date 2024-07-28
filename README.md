@@ -50,7 +50,7 @@ With a strong background in frontend, I bring a holistic approach to web develop
 
 **🎮 Gears World:** Click - https://gearsworld.netlify.app/
 
-** 🎧 Music Player:** Click - https://nick-musicplayer.netlify.app/
+**🎧 Music Player:** Click - https://nick-musicplayer.netlify.app/
 
 
 **🎥 Coding with Nick:**

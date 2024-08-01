@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **👋 Hi, I'm Nikhil Raghuwanshi!**
 
-I'm a passionate and dedicated frontend developer with a keen eye for design and user experience. With a solid foundation in modern web technologies, I strive to create intuitive, responsive, and aesthetically pleasing web applications.
+I'm a passionate and dedicated Front-end developer with a keen eye for design and user experience. With a solid foundation in modern web technologies, I strive to create intuitive, responsive, and aesthetically pleasing web applications.
 
 
 **🛠️ My Skill Set:**
